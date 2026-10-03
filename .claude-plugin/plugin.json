@@ -1,0 +1,21 @@
+{
+  "name": "crisp",
+  "displayName": "CRISP",
+  "version": "1.0.0",
+  "description": "Say the useful thing once, then stop. A writing protocol for LLM replies, specs, status updates, and agent messages: answer first, no filler, no repetition, plain words, structure only when it helps. Adds /crisp and 'crispify this'.",
+  "author": {
+    "name": "Andrei Verdeș",
+    "url": "https://github.com/andreiverdes"
+  },
+  "homepage": "https://andreiverdes.github.io/crisp/",
+  "repository": "https://github.com/andreiverdes/crisp-plugin",
+  "license": "MIT",
+  "keywords": [
+    "writing",
+    "concise",
+    "style",
+    "prompting",
+    "agents",
+    "token-efficiency"
+  ]
+}
